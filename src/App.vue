@@ -1,0 +1,15 @@
+<template>
+  <div class="app">
+    <h2>App</h2>
+
+    <router-link to="/login"> login</router-link>
+    <router-link to="/main">main</router-link>
+    <router-view></router-view>
+  </div>
+</template>
+
+<script setup lang="ts">
+import { RouterLink, RouterView } from 'vue-router'
+</script>
+
+<style scoped></style>
