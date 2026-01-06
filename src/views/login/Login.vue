@@ -1,6 +1,5 @@
 <template>
   <div class="login">
-
     <div>ash哈开始大声道</div>
     <h2>login: {{ counterStore.count }}</h2>
 
