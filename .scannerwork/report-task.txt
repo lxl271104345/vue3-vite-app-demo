@@ -1,0 +1,6 @@
+projectKey=vue3-vite-app
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=vue3-vite-app
+ceTaskId=7cf0c07c-b598-446e-b70f-d63ad00b9492
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7cf0c07c-b598-446e-b70f-d63ad00b9492
